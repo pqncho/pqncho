@@ -38,5 +38,8 @@ I'm Juan Francisco, a second-year Software Engineering student at ORT University
 📧 juanfranlino321@gmail.com
 
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pqncho&show_icons=true&theme=github_dark&hide_border=true)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pqncho&layout=compact&theme=github_dark&hide_border=true)
+---
 > "Always learning, always building."
