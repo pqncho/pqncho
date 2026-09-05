@@ -3,7 +3,7 @@
 I'm Juan Francisco, a second-year Software Engineering student at ORT University Uruguay.
 
 🚀 Passionate about technology, software development, and continuous learning.  
-💻 Currently building projects with Java, JavaScript, HTML, and CSS.  
+💻 Currently building projects with Java, JavaScript, C++, Ruby, HTML, and CSS.  
 🎯 Working towards becoming a skilled software engineer and creating impactful solutions.  
 🏋️ Gym enthusiast who enjoys challenges both inside and outside of programming.  
 
